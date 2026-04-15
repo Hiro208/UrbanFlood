@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Large local artifacts
+artifacts/
+outputs/
+tmp/
+
+# Keep raw competition data local by default
+Data/
